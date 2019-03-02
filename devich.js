@@ -1,1 +1,2 @@
-console.log("ASdsad");npm install -g now
+console.log("ASdsad");
+alert("Asdasd")
