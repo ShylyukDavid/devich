@@ -7,4 +7,4 @@ script:
   - npm run lint
   - npm run test
   - npm run build
-  - now alias --token="3kpk44dB6PTyZnbiLUycd1vv" -V 2 nicedaybaby-$TRAVIS_BRANCH.now.sh
+  - now alias --token=$ZEIT_KEY nicedaybaby-$TRAVIS_BRANCH.now.sh

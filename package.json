@@ -7,7 +7,7 @@
     "test": "echo nice",
     "lint": "eslint",
     "build": "echo builded",
-    "deploy": "now alias --token=$ZEIT_KEY -V 2 nicedaybaby-$TRAVIS_BRANCH.now.sh"
+    "deploy": "echo $ZEIT_KEY"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
