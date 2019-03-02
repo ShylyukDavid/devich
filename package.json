@@ -5,10 +5,9 @@
   "scripts": {
     "start": "node ./bin/www",
     "test": "echo nice",
-    "deploy": "echo nice",
     "lint": "eslint",
     "build": "echo builded",
-    "deploy": "echo $TRAVIS_BRANCH, %ZEIT_KEY"
+    "deploy": "now alias --token=$ZEIT_KEY -V 2 nicedaybaby-$TRAVIS_BRANCH.now.sh"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
