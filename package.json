@@ -7,13 +7,13 @@
     "test": "echo nice",
     "deploy": "echo nice",
     "lint": "eslint",
-    "build": "echo builded"
+    "build": "echo builded",
+    "deploy": "echo $TRAVIS_BRANCH, %ZEIT_KEY"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
-    "deploy": "echo $TRAVIS_BRANCH, %ZEIT_KEY",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "now": "^14.0.2",
