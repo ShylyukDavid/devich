@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/devich.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -141,12 +141,12 @@
       <workItem from="1551523268793" duration="4173000" />
       <workItem from="1551528657251" duration="4330000" />
       <workItem from="1551533912328" duration="740000" />
-      <workItem from="1551789362493" duration="1096000" />
+      <workItem from="1551789362493" duration="1992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15456000" />
+    <option name="totallyTimeSpent" value="16352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -204,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/devich.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
