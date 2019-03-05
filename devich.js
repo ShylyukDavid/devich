@@ -1,2 +1,2 @@
 console.log("ASdsad");
-alert("Asdasd")
+alert("Asd1")
