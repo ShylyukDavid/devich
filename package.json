@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "test": "eslint devich.js",
-    "lint": "eslint",
-    "build": "echo builded",
-    "deploy": "echo $ZEIT_KEY"
+    "start": "echo",
+    "test": "echo",
+    "lint": "echo",
+    "build": "echo",
+    "deploy": "echo"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
